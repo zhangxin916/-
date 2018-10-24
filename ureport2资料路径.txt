@@ -1,0 +1,15 @@
+http://wiki.bsdn.org/pages/viewpage.action?pageId=76448360
+
+
+
+数据源配置
+连接
+
+
+
+springBean配置  
+配置spring的xml中的bean的id一致
+ 
+
+数据集配置
+返回的是创建类的包名路径
